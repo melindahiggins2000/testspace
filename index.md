@@ -4,4 +4,4 @@ layout: home
 
 test content
 
-add link to [google] (www.google.com)
+add link to http://www.google.com
