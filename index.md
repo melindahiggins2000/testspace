@@ -4,4 +4,4 @@ layout: home
 
 test content
 
-add link to http://www.google.com
+add link to <a href=http://www.google.com>google</a>
